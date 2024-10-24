@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://vapanucu.github.io/sitemap/sitemap_index.vapanucu
+Sitemap: https://vapanucu.github.io/qgK/sitemap_index.vapanucu
+Sitemap: https://vapanucu.github.io/Zry/sitemap_index.vapanucu
+Sitemap: https://vapanucu.github.io/QEW/sitemap_index.vapanucu
+Sitemap: https://vapanucu.github.io/XYN/sitemap_index.vapanucu
+Sitemap: https://vapanucu.github.io/yho/sitemap_index.vapanucu
+Sitemap: https://vapanucu.github.io/dOM/sitemap_index.vapanucu
+Sitemap: https://vapanucu.github.io/spb/sitemap_index.vapanucu
+Sitemap: https://vapanucu.github.io/yoR/sitemap_index.vapanucu
+Sitemap: https://vapanucu.github.io/XpK/sitemap_index.vapanucu
+Sitemap: https://vapanucu.github.io/HJY/sitemap_index.vapanucu
+Sitemap: https://vapanucu.github.io/IDm/sitemap_index.vapanucu
+Sitemap: https://vapanucu.github.io/mlG/sitemap_index.vapanucu
+Sitemap: https://vapanucu.github.io/dsx/sitemap_index.vapanucu
+Sitemap: https://vapanucu.github.io/UkE/sitemap_index.vapanucu
+Sitemap: https://vapanucu.github.io/Crs/sitemap_index.vapanucu
+Sitemap: https://vapanucu.github.io/Gfd/sitemap_index.vapanucu
+Sitemap: https://vapanucu.github.io/mkx/sitemap_index.vapanucu
+Sitemap: https://vapanucu.github.io/ven/sitemap_index.vapanucu
+Sitemap: https://vapanucu.github.io/VWd/sitemap_index.vapanucu
+Sitemap: https://vapanucu.github.io/jBh/sitemap_index.vapanucu
